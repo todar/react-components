@@ -4,6 +4,7 @@ A cool a simple way to wobble each word on `mouseEnter` event. See a live demo o
 
 ![Demo](./wobble.gif)
 
+[![Edit todar-react-wobble-words](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/epic-kirch-ob30k?fontsize=14)
 ## Installation
 
 `npm install @todar/react-wobble-words`
