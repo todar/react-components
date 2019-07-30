@@ -12,7 +12,7 @@ import WobbleWords from "@todar/react-wobble-words";
 const App = () => {
   return (
     <div className="App">
-      <WobbleWords>Each word should wobble on mouseEnter</WobbleWords>
+      <WobbleWords>Hello, I'm a front-end web developer based in Phoenix, Arizona.</WobbleWords>
     </div>
   );
 };
