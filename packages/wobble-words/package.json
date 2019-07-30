@@ -1,0 +1,20 @@
+{
+  "name": "@todar/react-wobble-words",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/todar/react-components",
+    "directory": "tree/master/packages/wobble-words"
+  },
+  "version": "1.0.2",
+  "description": "This is a simple component that wobbles each word in a sentence on a mouseEnter event.",
+  "main": "WobbleWords.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Wobble"
+  ],
+  "author": "Robert Todar",
+  "license": "MIT"
+}
