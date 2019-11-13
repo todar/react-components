@@ -1,6 +1,6 @@
-# Dashboard.
+# React Template.
 
-This is meant to be a tool for allowance billing, mostly preaudit department.
+This is a template for how I like to set up react.
 
 ## Setup
 
@@ -39,9 +39,12 @@ npm install --save-dev babel-plugin-styled-components
 
 ## Tools
 
-- [Electronjs](https://electronjs.org/)
 - [Create-React-App](https://create-react-app.dev/)
 - [Styled-Components](https://www.styled-components.com/)
+- [react router](https://reacttraining.com/react-router/web/guides/quick-start)
+- [react-helmet](https://www.npmjs.com/package/react-helmet)
+
+- Optional [Electronjs](https://electronjs.org/)
 
 ### Extensions
 
